@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.calculator"
+        applicationId "com.example.calculator1"
         minSdk 22
         targetSdk 32
         versionCode 1

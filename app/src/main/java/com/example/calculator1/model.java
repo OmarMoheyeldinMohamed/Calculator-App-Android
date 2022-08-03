@@ -1,4 +1,4 @@
-package com.example.calculator;
+package com.example.calculator1;
 enum Operation {not_set, modulus, divide, multiply, minus, plus}
 public class model {
     private String first_num, second_num, result;
